@@ -1,6 +1,6 @@
 Retos de programación en Python
 ===============================
-## [Reto 1](../py_001.py)
+## [Reto 1](py_001.py)
 
 Escribe un programa que encuentre todos los números divisibles por 7 y que no sean múltiplos de 5,
 entre 2000 y 3200 (ambos incluidos).
