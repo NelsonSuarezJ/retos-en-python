@@ -28,6 +28,8 @@ Defina una clase que tenga al menos dos métodos: ***getString***: para obtener 
 
 ## [Reto 6](py_006.py)
 
+Escriba un programa que calcule e imprima el valor de acuerdo con la fórmula dada: ***Q = Raíz cuadrada de [(2 * C * D)/H]*** Los siguientes son los valores fijos de C y H: C es 50. H es 30. D es la variable cuyos valores deben introducirse en el programa en una secuencia separada por comas. Ejemplo Supongamos que se le da al programa la siguiente secuencia de entrada separada por comas: 100,150,180 La salida del programa debe ser: 18,22,24 Sugerencias: Si la salida recibida está en forma decimal, debe redondearse a su valor más cercano (por ejemplo, si la salida recibida es 26.0, debe imprimirse como 26)
+
 ## [Reto 7](py_007.py)
 
 ## [Reto 8](py_008.py)
