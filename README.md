@@ -56,7 +56,11 @@ Escriba un programa, que encontrará todos esos números entre 1000 y 3000 (ambo
 
 ## [Reto 13](py_013.py)
 
+Escribe un programa que acepte una oración y calcula el número de letras y dígitos. Supongamos que se suministra la siguiente entrada al programa: ¡Hola mundo! 123. Entonces, el resultado debe ser: LETRAS 9 DÍGITOS 3
+
 ## [Reto 14](py_014.py)
+
+Escriba un programa que acepte una oración y calcule el número de letras mayúsculas y minúsculas. Supongamos que se suministra la siguiente entrada al programa: ¡Hola mundo! Entonces, el resultado debe ser: MAYÚSCULAS 1 MINÚSCULAS 8
 
 ## [Reto 15](py_015.py)
 
