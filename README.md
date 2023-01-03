@@ -3,8 +3,7 @@ Retos de programación en Python
 
 ## [Reto 1](py_001.py)
 
-Escribe un programa que encuentre todos los números divisibles por 7 y que no sean múltiplos de 5,
-entre 2000 y 3200 (ambos incluidos).
+Escribe un programa que encuentre todos los números divisibles por 7 y que no sean múltiplos de 5, entre 2000 y 3200 (ambos incluidos).
 Los números obtenidos deben imprimirse en una secuencia separada por comas en una sola línea.
 
 ## [Reto 2](py_002.py)
@@ -56,13 +55,15 @@ Escriba un programa, que encontrará todos esos números entre 1000 y 3000 (ambo
 
 ## [Reto 13](py_013.py)
 
-Escribe un programa que acepte una oración y calcula el número de letras y dígitos. Supongamos que se suministra la siguiente entrada al programa: ¡Hola mundo! 123. Entonces, el resultado debe ser: LETRAS 9 DÍGITOS 3
+Escribe un programa que acepte una oración y calcula el número de letras y dígitos. Supongamos que se suministra la siguiente entrada al programa: ***¡Hola mundo! 123***. Entonces, el resultado debe ser: ***LETRAS 9 DÍGITOS 3***
 
 ## [Reto 14](py_014.py)
 
-Escriba un programa que acepte una oración y calcule el número de letras mayúsculas y minúsculas. Supongamos que se suministra la siguiente entrada al programa: ¡Hola mundo! Entonces, el resultado debe ser: MAYÚSCULAS 1 MINÚSCULAS 8
+Escriba un programa que acepte una oración y calcule el número de letras mayúsculas y minúsculas. Supongamos que se suministra la siguiente entrada al programa: ***¡Hola mundo!*** Entonces, el resultado debe ser: ***MAYÚSCULAS 1 MINÚSCULAS 8***
 
 ## [Reto 15](py_015.py)
+
+Escriba un programa que calcule el valor de ***a+aa+aaa+aaaa*** con un dígito dado como valor de a. Supongamos que se suministra la siguiente entrada al programa: 9 Entonces, el resultado debe ser: ***11106***
 
 ## [Reto 16](py_016.py)
 
