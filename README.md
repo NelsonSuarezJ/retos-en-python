@@ -32,15 +32,27 @@ Escriba un programa que calcule e imprima el valor de acuerdo con la fórmula da
 
 ## [Reto 7](py_007.py)
 
+Escriba un programa que tome 2 dígitos, X, Y como entrada y genere una matriz de 2 dimensiones. El valor del elemento en la i-ésima fila y j-ésima columna de la matriz debe ser i*j. Nota: i=0,1.., X-1; j=0,1,¡Y-1. Ejemplo Supongamos que se dan las siguientes entradas al programa: 3,5 Entonces, la salida del programa debe ser: [[0, 0, 0, 0, 0], [0, 1, 2, 3, 4], [0, 2, 4, 6, 8]]
+
 ## [Reto 8](py_008.py)
+
+Escriba un programa que acepte una secuencia de palabras separadas por comas como entrada e imprima las palabras en una secuencia separada por comas después de ordenarlas alfabéticamente. Supongamos que se suministra la siguiente entrada al programa: sin, hola, bolso, mundo Entonces, el resultado debe ser: bolso, hola, sin, mundo
 
 ## [Reto 9](py_009.py)
 
+Escriba un programa que acepte la secuencia de líneas como entrada e imprima las líneas después de poner en mayúscula todos los caracteres de la oración. Supongamos que se suministra la siguiente entrada al programa: Hola mundo La práctica hace al maestro Entonces, el resultado debe ser: HOLA MUNDO LA PRÁCTICA HACE AL MAESTRO
+
 ## [Reto 10](py_010.py)
+
+Escriba un programa que acepte una secuencia de palabras separadas por espacios en blanco como entrada e imprima las palabras después de eliminar todas las palabras duplicadas y ordenarlas alfanuméricamente. Supongamos que se suministra la siguiente entrada al programa: hola mundo y la práctica hace perfecto y hola mundo de nuevo Entonces, el resultado debe ser: Otra vez y hola hace que la práctica perfecta del mundo
 
 ## [Reto 11](py_011.py)
 
+Escriba un programa que acepte una secuencia de números binarios de 4 dígitos separados por comas como entrada y luego verifique si son divisibles por 5 o no. Los números que son divisibles por 5 deben imprimirse en una secuencia separada por comas. Ejemplo: 0100,0011,1010,1001 Entonces la salida debe ser: 1010 Notas: Suponga que los datos se introducen por la consola.
+
 ## [Reto 12](py_012.py)
+
+Escriba un programa, que encontrará todos esos números entre 1000 y 3000 (ambos incluidos) de modo que cada dígito del número sea un número par. Los números obtenidos deben imprimirse en una secuencia separada por comas en una sola línea.
 
 ## [Reto 13](py_013.py)
 
