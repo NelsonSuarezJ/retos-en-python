@@ -67,9 +67,25 @@ Escriba un programa que calcule el valor de ***a+aa+aaa+aaaa*** con un dígito d
 
 ## [Reto 16](py_016.py)
 
+Use una comprensión de lista para cuadrar cada número impar en una lista. La lista se introduce mediante una secuencia de números separados por comas. Supongamos que se suministra la siguiente entrada al programa: 1,2,3,4,5,6,7,8,9 Entonces, el resultado debe ser: 1,3,5,7,9
+
 ## [Reto 17](py_017.py)
 
+Escriba un programa que calcule el importe neto de una cuenta bancaria basándose en un registro de transacciones a partir de la entrada de la consola. El formato del registro de transacciones se muestra de la siguiente manera: D 100 W 200 D significa depósito, mientras que W significa retiro. Supongamos que se suministra la siguiente entrada al programa: D 300 D 300 W 200 D 100 Entonces, el resultado debe ser: 500
+
 ## [Reto 18](py_018.py)
+
+Un sitio web requiere que los usuarios ingresen el nombre de usuario y la contraseña para registrarse. Escriba un programa para verificar la validez de la entrada de contraseña por parte de los usuarios. Los siguientes son los criterios para verificar la contraseña:
+
+- Al menos 1 letra entre [a-z]
+- Al menos 1 número entre [0-9]
+- Al menos 1 letra entre [A-Z]
+- Al menos 1 carácter de [$#@]
+
+Longitud mínima de la contraseña de transacción: 6
+Longitud máxima de la contraseña de transacción: 12
+
+Su programa debe aceptar una secuencia de contraseñas separadas por comas y las verificará de acuerdo con los criterios anteriores. Las contraseñas que coincidan con los criterios deben imprimirse, cada una separada por una coma. Ejemplo Si se proporcionan las siguientes contraseñas como entrada al programa: ABd1234@1,a F1#,2w3E*,2We3345 Entonces, la salida del programa debe ser: ABd1234@1
 
 ## [Reto 19](py_019.py)
 
