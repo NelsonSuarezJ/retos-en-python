@@ -89,4 +89,44 @@ Su programa debe aceptar una secuencia de contraseñas separadas por comas y las
 
 ## [Reto 19](py_019.py)
 
+Debe escribir un programa para ordenar las tuplas (nombre, edad, altura) por orden ascendente donde el nombre es cadena, la edad y la altura son números. Las tuplas son introducidas por consola. El criterio de clasificación es: 1: Ordenar según el nombre; 2: Luego ordene según la edad; 3: Luego ordena por puntuación. La prioridad es que el nombre > la edad > puntuación. Si se dan las siguientes tuplas como entrada al programa: Tom,19,80 John,20,90 Jony,17,91 Jony,17,93 Json,21,85 Entonces, la salida del programa debe ser: [('John', '20', '90'), ('Jony', '17', '91'), ('Jony', '17', '93'), ('Json', '21', '85'), ('Tom', '19', '80')]
+
 ## [Reto 20](py_020.py)
+
+Defina una clase con un generador que pueda iterar los números, que son divisibles por 7, entre un rango dado 0 y n
+
+## [Reto 21](py_021.py)
+
+Un robot se mueve en un plano a partir del punto original (0,0). El robot puede moverse hacia UP, DOWN, LEFT y RIGHT con pasos determinados. El rastro del movimiento del robot se muestra de la siguiente manera: UP 5 DOWN 3 LEFT 3 RIGHT 2 ¡­ Los números después de la dirección son pasos. Por favor, escriba un programa para calcular la distancia desde la posición actual después de una secuencia de movimiento y punto original. Si la distancia es flotante, simplemente imprima el entero más cercano. Ejemplo: Si se dan las siguientes tuplas como entrada al programa: UP 5 DOWN 3 LEFT 3 RIGHT 2 Entonces, la salida del programa debe ser: 2
+
+## [Reto 22](py_022.py)
+
+Escriba un programa para calcular la frecuencia de las palabras de la entrada. La salida debe salir después de ordenar la clave alfanuméricamente. Supongamos que se suministra la siguiente entrada al programa: Nuevo en Python o eligiendo entre Python 2 y Python 3? Lea Python 2 o Python 3. Entonces, el resultado debe ser: 2:2 3.:1 3?:1 Nuevo:1 Python:5 Lea:1 y:1 entre:1 eligiendo:1 o:2 en:1
+
+## [Reto 23](py_023.py)
+
+Escribir un método que pueda calcular el valor cuadrado del número
+
+## [Reto 24](py_024.py)
+
+Escriba una funcion que calcule el cuadrado de un numero y muestre su documentacion.
+
+## [Reto 25](py_025.py)
+
+Defina una clase, que tenga un parámetro class y tenga un mismo parámetro de instancia.
+
+## [Reto 26](py_026.py)
+## [Reto 27](py_027.py)
+## [Reto 28](py_028.py)
+## [Reto 29](py_029.py)
+## [Reto 30](py_030.py)
+## [Reto 31](py_031.py)
+## [Reto 32](py_032.py)
+## [Reto 33](py_033.py)
+## [Reto 34](py_034.py)
+## [Reto 35](py_035.py)
+## [Reto 36](py_036.py)
+## [Reto 37](py_037.py)
+## [Reto 38](py_038.py)
+## [Reto 39](py_039.py)
+## [Reto 40](py_040.py)
