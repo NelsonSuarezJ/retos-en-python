@@ -116,11 +116,29 @@ Escriba una funcion que calcule el cuadrado de un numero y muestre su documentac
 Defina una clase, que tenga un parámetro class y tenga un mismo parámetro de instancia.
 
 ## [Reto 26](py_026.py)
+
+Defina una función que pueda calcular la suma de dos números.
+
 ## [Reto 27](py_027.py)
+
+Defina una función que pueda convertir un entero en una cadena e imprímalo en la consola.
+
 ## [Reto 28](py_028.py)
+
+Defina una función que pueda recibir dos números enteros en forma de cadena y calcule su suma y, a continuación, imprímala en la consola
+
 ## [Reto 29](py_029.py)
+
+Defina una función que pueda aceptar dos cadenas como entrada y concatenarlas y, a continuación, imprimirla en la consola.
+
 ## [Reto 30](py_030.py)
+
+Defina una función que pueda aceptar dos cadenas como entrada e imprima la cadena con la longitud máxima en la consola. Si dos cadenas tienen la misma longitud, entonces la función debe imprimir todas las cadenas línea por línea.
+
 ## [Reto 31](py_031.py)
+
+Defina una función que pueda aceptar un número entero como entrada e imprima el "Es un número par" si el número es par, de lo contrario imprima "Es un número impar".
+
 ## [Reto 32](py_032.py)
 ## [Reto 33](py_033.py)
 ## [Reto 34](py_034.py)
