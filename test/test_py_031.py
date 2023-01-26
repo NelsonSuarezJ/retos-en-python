@@ -1,5 +1,5 @@
 import unittest
-from py_031 import par_impar
+from retos.py_031 import par_impar #pylint: disable=E0401
 
 
 class MyTest(unittest.TestCase):

@@ -140,8 +140,17 @@ Defina una función que pueda aceptar dos cadenas como entrada e imprima la cade
 Defina una función que pueda aceptar un número entero como entrada e imprima el "Es un número par" si el número es par, de lo contrario imprima "Es un número impar".
 
 ## [Reto 32](/retos/py_032.py)
+
+Defina una función que pueda imprimir un diccionario donde las claves son números entre 1 y 3 (ambos incluidos) y los valores son cuadrados de las claves.
+
 ## [Reto 33](/retos/py_033.py)
+
+Defina una función que pueda generar un diccionario donde las claves sean números entre 1 y 20 (ambos incluidos) y los valores sean cuadrados de claves. La función solo debe imprimir los valores.
+
 ## [Reto 34](/retos/py_034.py)
+
+Defina una función que pueda generar e imprimir una lista donde los valores sean cuadrados de números entre 1 y 20 (ambos incluidos).
+
 ## [Reto 35](/retos/py_035.py)
 ## [Reto 36](/retos/py_036.py)
 ## [Reto 37](/retos/py_037.py)
