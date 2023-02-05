@@ -152,8 +152,17 @@ Defina una función que pueda generar un diccionario donde las claves sean núme
 Defina una función que pueda generar e imprimir una lista donde los valores sean cuadrados de números entre 1 y 20 (ambos incluidos).
 
 ## [Reto 35](/retos/py_035.py)
+
+Defina una función que pueda generar una lista donde los valores sean cuadrados de números entre 1 y 20 (ambos incluidos). Luego, la función debe imprimir los primeros 5 elementos de la lista.
+
 ## [Reto 36](/retos/py_036.py)
+
+Defina una función que pueda generar una lista donde los valores sean cuadrados de números entre 1 y 20 (ambos incluidos). Luego, la función debe imprimir los últimos 5 elementos de la lista.
+
 ## [Reto 37](/retos/py_037.py)
+
+Defina una función que pueda generar e imprimir una tupla donde el valor sea cuadrado de números entre 1 y 20 (ambos incluidos).
+
 ## [Reto 38](/retos/py_038.py)
 ## [Reto 39](/retos/py_039.py)
 ## [Reto 40](/retos/py_040.py)
