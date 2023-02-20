@@ -164,5 +164,33 @@ Defina una función que pueda generar una lista donde los valores sean cuadrados
 Defina una función que pueda generar e imprimir una tupla donde el valor sea cuadrado de números entre 1 y 20 (ambos incluidos).
 
 ## [Reto 38](/retos/py_038.py)
+
+Con una tupla dada (1,2,3,4,5,6,7,8,9,10), escriba un programa para imprimir los valores de la primera mitad en una línea y los valores de la última mitad en una línea.
+
 ## [Reto 39](/retos/py_039.py)
+
+Escriba un programa que acepte una cadena como entrada para imprimir "Sí" si la cadena es "sí" o "SÍ" o "Sí", de lo contrario imprima "No".
+
 ## [Reto 40](/retos/py_040.py)
+
+Escriba un programa que pueda filtrar números pares en una lista utilizando la función de filtro. La lista es: [1,2,3,4,5,6,7,8,9,10].
+
+## [Reto 41](/retos/py_0041.py)
+
+Escribe un programa que pueda *mapear()* para hacer una lista cuyos elementos sean cuadrados de elementos en [1,2,3,4,5,6,7,8,9,10].
+
+## [Reto 42](/retos/py_0042.py)
+
+Escribe un programa que pueda *filtrar()* para hacer una lista cuyos elementos sean pares entre 1 y 20 (ambos incluidos).
+
+## [Reto 43](/retos/py_0043.py)
+
+Escribe un programa que pueda *mapear()* para hacer una lista cuyos elementos sean cuadrados de números entre 1 y 20 (ambos incluidos).
+
+## [Reto 44](/retos/py_0044.py)
+## [Reto 45](/retos/py_0045.py)
+## [Reto 46](/retos/py_0046.py)
+## [Reto 47](/retos/py_0047.py)
+## [Reto 48](/retos/py_0048.py)
+## [Reto 49](/retos/py_0049.py)
+## [Reto 50](/retos/py_0050.py)
